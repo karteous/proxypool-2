@@ -57,3 +57,4 @@ jobs:
         with:
           name: build
           path: bin
+          tags: ghcr.io/3wking/proxypool:v0.7.0
