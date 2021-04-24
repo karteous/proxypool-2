@@ -27,6 +27,11 @@
 - 自动检测节点可用性
 - 提供clash、surge配置文件
 - 提供ss、ssr、vmess、sip002订阅
+- 
+## 使用一键脚本安装到VPS  (目前仅支持CentOS 7操作系统)
+```sh
+wget https://raw.githubusercontent.com/3wking/proxypool/master/onekey_install.sh && chmod +x onekey_install.sh && ./onekey_install.sh
+```
 
 ## 安装
 
