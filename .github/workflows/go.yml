@@ -4,6 +4,9 @@ on:
     tags-ignore:
       - v*-*-*
   pull_request:
+  watch:
+    types: [started]
+    
 jobs:
 
   build:
